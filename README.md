@@ -31,6 +31,8 @@ dependencies:
   flutter_secure_storage: ^9.2.3
   intl: ^0.17.0
   permission_handler: ^11.4.0
+  image_picker: ^0.8.3+3
+  path_provider: ^2.0.11
   csv: ^5.0.0
   open_file: ^3.3.2
   fl_chart: ^0.70.2
